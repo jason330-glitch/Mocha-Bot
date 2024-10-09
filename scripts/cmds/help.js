@@ -149,6 +149,9 @@ module.exports = {
 𝚃𝚘 𝚜𝚎𝚎 𝚑𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎
 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜.
 
+Mention the owner when bot is dead
+@Jason Valles
+
 Example: %1help gemini
 ━━━━━━━━━━━━━━━━`;
 
